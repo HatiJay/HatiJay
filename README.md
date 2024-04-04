@@ -1,6 +1,6 @@
 # Hey there, I'm Hatice! 👋
 
-![Profile Image](Hatice.png)
+![Profile Image](Hatice.jpeg)
 
 I'm a newcomer to the world of coding, I am currently completing a Software Engineering Bootcamp with HyperionDev and exploring Codewars for fun. I'm excited to embark on this journey of learning and discovery. 
 
