@@ -22,10 +22,6 @@ Here are some of the languages and tools I'm beginning to explore:
 - **Languages**: Python, HTML, JavaScript
 - **Tools**: Visual Studio Code, GitHub
 
-## GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?HatiJay=HatiJay&show_icons=true&theme=radical)
-
 ## Connect with Me
 
 - [GitHub](https://github.com/HatiJay)
