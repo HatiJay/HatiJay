@@ -1,4 +1,4 @@
-# Hey there, I'm Hatice! 👋
+# Hey there, I'm Hatice! (Pronounced HatiJay) 👋
 
 ![Profile Image](Hatice.jpeg)
 
