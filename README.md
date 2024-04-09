@@ -27,6 +27,6 @@ Here are some of the languages and tools I'm beginning to explore:
 ## Connect with Me
 
 - [GitHub](https://github.com/HatiJay)
-- [LinkedIn](https://www.linkedin.com/in/hatice-sadrettin-03568ba5/)
+- [LinkedIn](https://www.linkedin.com/in/ms-hatice-sadrettin-)
 
 Let's learn and grow together in this exciting coding journey! Feel free to connect and share your experiences. 😊
