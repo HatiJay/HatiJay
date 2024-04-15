@@ -28,4 +28,4 @@ Here are some of the languages and tools I'm beginning to explore:
 - [GitHub](https://github.com/HatiJay)
 - [LinkedIn](https://www.linkedin.com/in/ms-hatice-sadrettin-)
 
-Let's learn and grow together in this exciting coding journey! Feel free to connect and share your experiences. 😊
+![Footer]https://github.com/HatiJay/HatiJay/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner%20(1).png
