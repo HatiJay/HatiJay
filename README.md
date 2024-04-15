@@ -1,6 +1,6 @@
 # Hey there, I'm Hatice! (Pronounced HatiJay) 👋
 
-![https://github.com/HatiJay/HatiJay/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png]
+![Banner](https://github.com/HatiJay/HatiJay/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
 
 I'm a newcomer to the world of coding, I am currently completing a Software Engineering Bootcamp with HyperionDev and exploring Codewars for fun. I'm excited to embark on this journey of learning and discovery. 
 
