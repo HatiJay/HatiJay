@@ -1,9 +1,8 @@
 # Hey there, I'm Hatice! (Pronounced HatiJay) 👋
 
-![Profile Image](Navy Blue Geometric Technology LinkedIn Banner.png)
+![https://github.com/HatiJay/HatiJay/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png]
 
 I'm a newcomer to the world of coding, I am currently completing a Software Engineering Bootcamp with HyperionDev and exploring Codewars for fun. I'm excited to embark on this journey of learning and discovery. 
-
 
 Welcome to my GitHub profile! Let me introduce myself:
 
